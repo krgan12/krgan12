@@ -8,7 +8,7 @@
   <a align="center" href="">Website</a> | <a href="">Favourite Song</a> | <a href="">Linkedin</a>
 </h3>
 
-<blockquote style="color : Red">Website</blockquote>
+<blockquote>Website</blockquote>
 <blockquote>Random dog video</blockquote>
 <blockquote>LinkedIn</blockquote>
 Fun fact: There are More than 700 Coding Languages
