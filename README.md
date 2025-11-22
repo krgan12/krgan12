@@ -4,14 +4,14 @@
 <br />
 <br />
 <h4 align="center">
- 
   <a align="center" href="">Website</a> | <a href="">Favourite Song</a> | <a href="">Linkedin</a>
 </h3>
 
-<blockquote>Website</blockquote>
-<blockquote>Random dog video</blockquote>
+<blockquote>🌐 Website 🌐</blockquote>
+<blockquote>🐶 Random dog video 🐶</blockquote>
 <blockquote>LinkedIn</blockquote>
 Fun fact: There are More than 700 Coding Languages
+![image]()
 <!-- https://www.youtube.com/shorts/sQWmjMWxAaY -->
 <!--
 Here are some ideas to get you started:
