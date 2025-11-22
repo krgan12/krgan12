@@ -7,6 +7,7 @@
 <br /><br />
 
 <p align="center"> 
-  <img src ="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fvwju190af3df1.gif" width=1000 height=1000 /> 
+  <img src ="https://i.redd.it/vwju190af3df1.gif" width=1000 height=1000 /> 
 </p>
 
+ 
