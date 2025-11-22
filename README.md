@@ -10,5 +10,5 @@
 
  
 <p align="center" > 
-  <img width="540" height="540" alt="image" src="https://github.com/user-attachments/assets/6c57e0d4-0923-4069-bba3-53302b4d43a9.gif" />
+  <img width="540" height="540" alt="image" src="(https://i.redd.it/vwju190af3df1.gif" />
  </p>
