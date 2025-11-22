@@ -15,7 +15,7 @@
   </tr>
 </table>
 </div>
-
+<br />
 <p align="center">
   <img src="vwju190af3df1.gif" alt="Name of File" width=500 height=500/>
 </p>
