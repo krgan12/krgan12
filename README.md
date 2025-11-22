@@ -1,9 +1,12 @@
 <h1 align="center">
   Keagan Rodrigues
 </h1>
-<code><a target="_blank" href="google.ca">Website</a> | 
+<p>
+<code>
+  <a target="_blank" href="google.ca">Website</a> | 
 <a target="_blank" href="https://www.youtube.com/shorts/sQWmjMWxAaY">Random dog video</a> | 
 <a target="_blank" href="google.ca">LinkedIn</a></code>
+  </p>
 <br /><br />
 
 <p align="center">
