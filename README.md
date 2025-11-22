@@ -1,7 +1,7 @@
 <h1 align="center">
   Keagan Rodrigues
 </h1>
-<blockquote><a href="google.ca">🌐 Website 🌐</a></blockquote>
+<blockquote style="display:inline-block; margin-right:10px;"><a href="google.ca">🌐 Website 🌐</a></blockquote>
 <blockquote><a href="google.ca">🐶 Random dog video 🐶</a></blockquote>
 <blockquote><a href="google.ca">LinkedIn</a></blockquote>
 <br />
