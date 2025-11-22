@@ -1,9 +1,15 @@
-## Hi there 👋
 <h1 align="center">
   Keagan Rodrigues
 </h1>
 
-<a align="center" href="">Website</a> | <a href="">Favourite Song</a> | <a href="">Linkedin</a>
+<h3 align="center">
+  <code>
+    Test
+  </code>
+  
+  <a align="center" href="">Website</a> | <a href="">Favourite Song</a> | <a href="">Linkedin</a>
+</h3>
+
 
 Fun fact: There are More than 700 Coding Languages
 
