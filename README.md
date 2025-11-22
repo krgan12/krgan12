@@ -7,7 +7,7 @@
 <blockquote><a target="_blank" href="https://www.linkedin.com/in/keaganr/">LinkedIn</a></blockquote> -->
 
 <p align="center">
-  <a href="https://www.placeholderurl.com">Website</a> | <a href="https://www.youtube.com/shorts/sQWmjMWxAaY">Random Dog Video</a> | <a href="https://www.linkedin.com/in/keaganr/">Linkedin</a>
+  <a href="https://www.placeholderurl.com">Website</a> &nbsp;&nbsp;&nbsp; | <a href="https://www.youtube.com/shorts/sQWmjMWxAaY">Random Dog Video</a> | <a href="https://www.linkedin.com/in/keaganr/">Linkedin</a>
 </p>
 <!-- <div align="center">
 <table>
