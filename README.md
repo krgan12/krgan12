@@ -9,14 +9,9 @@
 <div align="center">
 <table>
   <tr>
-    <th>  <a target="_blank" href="https://www.google.ca">Website</a></th>
-    <th>Random Dog Video</th>
-    <th>LinkedIn</th>
-  </tr>
-  <tr>
-    <td align="center"><a target="_blank" href="https://www.google.ca">Click me!</a></td>
-    <td align="center"><a target="_blank" href="https://www.youtube.com/shorts/sQWmjMWxAaY">Click me!</a></td>
-    <td align="center"><a target="_blank" href="https://www.linkedin.com/in/keaganr/">Click me!</a></td>
+    <th><a target="_blank" href="https://www.google.ca">Website</a></th>
+    <th><a target="_blank" href="https://www.youtube.com/shorts/sQWmjMWxAaY">Random Dog Video</a></th>
+    <th><a target="_blank" href="https://www.linkedin.com/in/keaganr/">LinkedIn</a></th>
   </tr>
 </table>
 </div>
