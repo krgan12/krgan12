@@ -9,7 +9,7 @@
 <div align="center">
 <table>
   <tr>
-    <th><a target="_blank" href="https://www.google.ca">Website</a></th>
+    <th><a target="_blank" href="https://www.google.ca">Website</a></th> <br>
     <th><a target="_blank" href="https://www.youtube.com/shorts/sQWmjMWxAaY">Random Dog Video</a></th>
     <th><a target="_blank" href="https://www.linkedin.com/in/keaganr/">LinkedIn</a></th>
   </tr>
