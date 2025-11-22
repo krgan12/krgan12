@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td><a target="_blank" href="https://www.google.ca">Link</a></td>
-    <td><a target="_blank" href="https://www.youtube.com/shorts/sQWmjMWxAaY">Link</a></td>
+    &nbsp;&nbsp;<td><a target="_blank" href="https://www.youtube.com/shorts/sQWmjMWxAaY">Link</a></td>
     <td><a target="_blank" href="https://www.linkedin.com/in/keaganr/">Link</a></td>
   </tr>
 </table>
