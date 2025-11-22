@@ -7,5 +7,5 @@
 <br /><br />
 
 <p align="center">
-  <img src="vwju190af3df1.gif" alt="Name of File" width=950 height=500/>
+  <img src="vwju190af3df1.gif" alt="Name of File" width=950 height=950/>
 </p>
