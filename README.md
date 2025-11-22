@@ -11,7 +11,7 @@
 <blockquote>🐶 Random dog video 🐶</blockquote>
 <blockquote>LinkedIn</blockquote>
 Fun fact: There are More than 700 Coding Languages
-![image]()
+![image](LinkedIn_logo_initials.png)
 <!-- https://www.youtube.com/shorts/sQWmjMWxAaY -->
 <!--
 Here are some ideas to get you started:
