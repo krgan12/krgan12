@@ -15,9 +15,9 @@
     <th>LinkedIn</th>
   </tr>
   <tr>
-    <td align="center"><a target="_blank" href="https://www.google.ca">Link</a></td>
-    <td align="center"><a target="_blank" href="https://www.youtube.com/shorts/sQWmjMWxAaY">Link</a></td>
-    <td align="center"><a target="_blank" href="https://www.linkedin.com/in/keaganr/">Link</a></td>
+    <td align="center"><a target="_blank" href="https://www.google.ca">Click me!</a></td>
+    <td align="center"><a target="_blank" href="https://www.youtube.com/shorts/sQWmjMWxAaY">Click me!</a></td>
+    <td align="center"><a target="_blank" href="https://www.linkedin.com/in/keaganr/">Click me!</a></td>
   </tr>
 </table>
 </div>
