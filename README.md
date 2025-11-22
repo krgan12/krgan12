@@ -15,7 +15,7 @@ Colons can be used to align columns.
 
 | Website       | Random Dog Video      | LinkedIn  |
 | ------------- |:-------------:| -----:|
-| [URL]         | <a target="_blank" href="https://www.youtube.com/shorts/sQWmjMWxAaY"></a> | $1600 |
+| [URL]         | <a target="_blank" href="https://www.youtube.com/shorts/sQWmjMWxAaY">Link</a> | <a target="_blank" href="https://www.linkedin.com/in/keaganr/">LinkedIn</a> |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
