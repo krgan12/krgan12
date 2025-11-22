@@ -7,7 +7,7 @@
 <br /><br />
 
 <p align="center"> 
-  <img src ="[https://i.redd.it/vwju190af3df1.gif](https://i.redd.it/vwju190af3df1.gif)" width=1000 height=1000 /> 
+  ![Name of File](vwju190af3df1.gif) 
 </p>
 
- ![Name of File](vwju190af3df1.gif)
+ 
