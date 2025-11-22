@@ -7,11 +7,10 @@
   <a align="center" href="">Website</a> | <a href="">Favourite Song</a> | <a href="">Linkedin</a>
 </h3>
 
-<blockquote>🌐 Website 🌐</blockquote>
-<blockquote>🐶 Random dog video 🐶</blockquote>
-<blockquote>LinkedIn</blockquote>
+<blockquote><a href="google.ca">🌐 Website 🌐</a></blockquote>
+<blockquote><a href="google.ca">🐶 Random dog video 🐶</a></blockquote>
+<blockquote><a href="google.ca">LinkedIn</a></blockquote>
 Fun fact: There are More than 700 Coding Languages
-![Test](LinkedIn_logo_initials.png)
 <!-- https://www.youtube.com/shorts/sQWmjMWxAaY -->
 <!--
 Here are some ideas to get you started:
