@@ -5,7 +5,7 @@
 <!-- <blockquote><a target="_blank" href="https://www.google.ca">Website</a></blockquote>
 <blockquote><a target="_blank" href="https://www.youtube.com/shorts/sQWmjMWxAaY">Random dog video</a></blockquote>
 <blockquote><a target="_blank" href="https://www.linkedin.com/in/keaganr/">LinkedIn</a></blockquote> -->
-  <hr>
+
 <div align="center">
 <table>
   <tr>
