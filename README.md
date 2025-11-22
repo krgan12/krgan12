@@ -7,8 +7,3 @@
 <br /><br />
 
 ![Name of File](vwju190af3df1.gif) 
-
- 
-<p align="center" > 
-  <img width="540" height="540" alt="image" src="(https://i.redd.it/vwju190af3df1.gif" />
- </p>
