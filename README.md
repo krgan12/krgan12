@@ -6,8 +6,6 @@
 <blockquote><a target="_blank" href="google.ca">LinkedIn</a></blockquote>
 <br /><br />
 
-<p align="center"> 
-  ![Name of File](vwju190af3df1.gif) 
-</p>
+![Name of File](vwju190af3df1.gif) 
 
  
