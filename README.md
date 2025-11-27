@@ -6,9 +6,9 @@
 <blockquote><a target="_blank" href="https://www.youtube.com/shorts/sQWmjMWxAaY">Random dog video</a></blockquote>
 <blockquote><a target="_blank" href="https://www.linkedin.com/in/keaganr/">LinkedIn</a></blockquote> -->
 
-<h3 align="center">
+<p align="center">
   <a align="left" href="https://www.placeholderurl.com">Website</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/shorts/sQWmjMWxAaY">Random Dog Video</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/keaganr/">Linkedin</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</h3>
+</p>
 
 <hr />
 
