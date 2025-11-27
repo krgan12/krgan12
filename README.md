@@ -17,7 +17,7 @@
   <tr>
     <th><a target="_blank" href="https://www.google.ca">Website</a></th> <br>
     <th><a target="_blank" href="https://www.youtube.com/shorts/sQWmjMWxAaY">Random Dog Video</a></th>
-    <th><a target="_blank" href="https://www.linkedin.com/in/keaganr/">LinkedIn</a></th>
+    <th><a target="_blank" href="https://www.linkedin.com/in/keaganr/">Linked[In]</a></th>
   </tr>
 </table>
 </div> -->
