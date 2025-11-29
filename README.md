@@ -28,5 +28,5 @@
 </p> -->
 
 <div align="center">
-  <img src="SVM - Battle.gif" alt="Sukuna v Mahoraga" width=900 height=500/>
+  <img src="SVM - Battle.gif" alt="Sukuna v Mahoraga" width=400 height=200/>
 </div>
