@@ -13,7 +13,7 @@
 <!-- <div align="center">
 <table>
   <tr>
-    <th><a target="_blank" href="https://www.google.ca">Website</a></th> <br>
+    <th><a target="_blank" href="https://krgan12.github.io/cool-personal-site/">Website</a></th> <br>
     <th><a target="_blank" href="https://www.youtube.com/shorts/sQWmjMWxAaY">Dog Video</a></th>
     <th><a target="_blank" href="https://www.linkedin.com/in/keaganr/">Linked[In]</a></th>
   </tr>
