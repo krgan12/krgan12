@@ -29,7 +29,7 @@
   <img src="SVM - Battle (1).gif" alt="Sukuna v Mahoraga" width=600 height=400/>
 </div> -->
 
-div align="center">
+<div align="center">
   <img src="GIF+T+C.gif" alt="Connor Helleybuycks SAVE OF THE CENTURY" width=600 height=400/>
 </div>
 
