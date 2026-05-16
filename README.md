@@ -25,8 +25,12 @@
   <img src="vwju190af3df1.gif" alt="Name of File" width=500 height=500/>
 </p> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="SVM - Battle (1).gif" alt="Sukuna v Mahoraga" width=600 height=400/>
+</div> -->
+
+div align="center">
+  <img src="GIF+T+C.gif" alt="Connor Helleybuycks SAVE OF THE CENTURY" width=600 height=400/>
 </div>
 
 <!-- width=400 height=275 -->
