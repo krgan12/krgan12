@@ -30,7 +30,7 @@
 </div> -->
 
 <div align="center">
-  <img src="GIF+T+C.gif" alt="Connor Helleybuycks SAVE OF THE CENTURY" width=600 height=400/>
+  <img src="GIF+T+C.gif" alt="Connor Helleybuycks SAVE OF THE CENTURY" width=700 height=400/>
 </div>
 
 <!-- width=400 height=275 -->
