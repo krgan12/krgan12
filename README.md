@@ -35,7 +35,7 @@
 </div> -->
 
 <div align="center">
-  *"A Software Engineer's job is never done"* 
+  "_A Software Engineer's job is never done_"
 </div>
 <br />
 
