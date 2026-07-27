@@ -35,11 +35,6 @@
 </div> -->
 
 <div align="center">
-  "_A Software Engineer's job is never done_"
-</div>
-<br />
-
-<div align="center">
   <img src="Coolest_gif.gif" alt="" width=700 height=400/>
 </div>
 
