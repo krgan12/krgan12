@@ -7,7 +7,6 @@
 <blockquote><a target="_blank" href="https://www.linkedin.com/in/keaganr/">LinkedIn</a></blockquote>  -->
 
 <p align="center">
-  <p align="center">Test</p>
   <a target="_blank" align="center" href="http://keaganr.com/">Website</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/shorts/sQWmjMWxAaY">Random Dog Video</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/keaganr/">Linked[in]</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -34,6 +33,10 @@
 <!-- <div align="center">
   <img src="Coolest_gif.gif" alt="Connor Helleybuycks SAVE OF THE CENTURY" width=700 height=400/>
 </div> -->
+
+<div align="center">
+  A test is test never done test
+</div>
 
 <div align="center">
   <img src="Coolest_gif.gif" alt="" width=700 height=400/>
