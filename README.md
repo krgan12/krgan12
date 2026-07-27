@@ -35,7 +35,7 @@
 </div> -->
 
 <div align="center">
-  A test is test never done test
+  *"A Software Engineer's job is never done"* 
 </div>
 <br />
 
