@@ -5,7 +5,6 @@
 <!-- <blockquote><a target="_blank" href="https://www.google.ca">Website</a></blockquote>
 <blockquote><a target="_blank" href="https://www.youtube.com/shorts/sQWmjMWxAaY">Random dog video</a></blockquote>
 <blockquote><a target="_blank" href="https://www.linkedin.com/in/keaganr/">LinkedIn</a></blockquote>  -->
-
 <p align="center">
   <a target="_blank" align="center" href="http://keaganr.com/">Website</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/shorts/sQWmjMWxAaY">Random Dog Video</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/keaganr/">Linked[in]</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
